@@ -5,7 +5,7 @@
 <p>The SOC 2 Type 2 and ISO 27001 certifications demonstrate the importance the company attaches to information security and data protection.</p>
 <h2>Let's take a closer look at what these certifications mean:</h2>
 <ul>
-  <li><h3>- SOC 2 Type 2 Certificate of Compliance:</h3>
+  <li><h3>SOC 2 Type 2 Certificate of Compliance:</h3>
     <ul>
       <li>SOC 2 (System and Organization Controls 2) is an auditing standard developed by the 		American Accounting Auditors                   Association (AICPA) that evaluates organizations' control 		systems against the criteria of security, availability, processing,            confidentiality, and data 			integrity (also known as Trust Services Criteria).</li>
       <li>SOC 2 Type 2 certification implies that Cargio has been assessed over a period of time 			(usually at least 6 months) for                compliance with these safety criteria. This confirms that the 		company not only has appropriate policies and procedures in                place, but actually follows 		them in day-to-day operations.</li>
