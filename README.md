@@ -7,13 +7,13 @@
 <ul>
   <li><h3>- SOC 2 Type 2 Certificate of Compliance:</h3>
     <ul>
-      <li>- SOC 2 (System and Organization Controls 2) is an auditing standard developed by the 		American Accounting Auditors                   Association (AICPA) that evaluates organizations' control 		systems against the criteria of security, availability, processing,            confidentiality, and data 			integrity (also known as Trust Services Criteria).</li>
+      <li>SOC 2 (System and Organization Controls 2) is an auditing standard developed by the 		American Accounting Auditors                   Association (AICPA) that evaluates organizations' control 		systems against the criteria of security, availability, processing,            confidentiality, and data 			integrity (also known as Trust Services Criteria).</li>
       <li>SOC 2 Type 2 certification implies that Cargio has been assessed over a period of time 			(usually at least 6 months) for                compliance with these safety criteria. This confirms that the 		company not only has appropriate policies and procedures in                place, but actually follows 		them in day-to-day operations.</li>
     </ul>
   </li>
-  <li><h3>- ISO 27001 Certification:</h3>
+  <li><h3>ISO 27001 Certification:</h3>
     <ul>
-      <li>- ISO 27001 is the international standard for Information Security Management System 			(ISMS). This standard defines the               methodology for risk management and information 			protection in an organization. 	Achieving ISO 27001 certification                     demonstrates that Cargio has developed and 				implemented an information security management system, including processes,               policies, 		controls and risks. This certificate emphasizes the company's commitment to ensuring a 		high level of data                  security.</li>
+      <li>ISO 27001 is the international standard for Information Security Management System 			(ISMS). This standard defines the               methodology for risk management and information 			protection in an organization. 	Achieving ISO 27001 certification                     demonstrates that Cargio has developed and 				implemented an information security management system, including processes,               policies, 		controls and risks. This certificate emphasizes the company's commitment to ensuring a 		high level of data                  security.</li>
     </ul>
   </li>
 </ul>
